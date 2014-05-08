@@ -8,6 +8,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Vehicle v = new Vehicle("Ford", "T812", 2014);
+		Vehicle d = new Vehicle("honda", "3434", 2011);
 
 		v.printDetails();
 		
